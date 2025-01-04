@@ -1,4 +1,4 @@
 # hello-world
 I am learning how to use Git Hub
-I am an advocate for global systemic change and the creation of a world of love, peace, and unity. That is the one sentence version that serves as the Intro for my Facebook profile page. Of course, there are some more specifics which can probably best be explained by a brief synopsis of my life to-date. I was brought up within a very left-wing political household in which issues of social inequality and social justice were an almost-constant subject of conversation. Such matters concerned and interested me greatly, but I was also deeply interested in the subjective aspect of human experience which I strongly felt to be fundamental to our personal experience of well-being and our ability to maintain happy and healthy social relationships with others. After several years of spiritual exploration during my teenage years I became a Buddhist at age 19. In 1995, at age 20 I decided to move into a Buddhist community in order to study Buddhism, rather than go to Reading University to study Psychology. 
+
 
